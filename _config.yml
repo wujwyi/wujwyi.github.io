@@ -9,7 +9,6 @@
 title                    : "Jiayi Wu"
 description              : "Ph.D. student at East China Normal University (ECNU DASE). Working on RAG, Search / Agent Learning, and LLM Post-training & Alignment."
 repository               : "wujwyi/wujwyi.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

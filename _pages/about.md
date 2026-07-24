@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at the **School of Data Science and Engineering, East China Normal University (ECNU DASE)**. My research focuses on:
@@ -23,7 +16,7 @@ I am a Ph.D. student at the **School of Data Science and Engineering, East China
 - **Search / Agent Learning**
 - **LLM Post-training & Alignment**
 
-I have been fortunate to collaborate closely with researchers at **Baidu Search** and **Tencent Hunyuan** on these topics. You can find my publications on <a href='https://scholar.google.com/citations?user=bQwV46IAAAAJ&hl=zh-CN'>Google Scholar <strong><span id='total_cit'>Loading</span></strong></a> <a href='https://scholar.google.com/citations?user=bQwV46IAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have been fortunate to collaborate closely with researchers at **Baidu Search** and **Tencent Hunyuan** on these topics. You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bQwV46IAAAAJ&hl=zh-CN) page.
 
 ### On the job market
 
