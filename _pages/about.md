@@ -10,119 +10,108 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the **School of Data Science and Engineering, East China Normal University (ECNU DASE)**. My research focuses on:
+I am a 4th-year Ph.D. student at the **School of Data Science and Engineering, East China Normal University (ECNU DASE)**, advised by [Prof. **Ming Gao**](https://scholar.google.com/citations?user=vwI3qB0AAAAJ&hl=zh-CN) and [Prof. **Xiang Li**](https://lixiang3776.github.io/). I have interned at **Baidu Search**, **Tencent Hunyuan**, and **ByteDance Volcengine Ark**.
+
+My research focuses on:
 
 - **Retrieval-Augmented Generation (RAG)**
 - **Search / Agent Learning**
 - **LLM Post-training & Alignment**
 
-I have been fortunate to collaborate closely with researchers at **Baidu Search** and **Tencent Hunyuan** on these topics. You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bQwV46IAAAAJ&hl=zh-CN) page.
-
-### On the job market
-
-I will graduate in **June 2027** and am currently looking for full-time opportunities in LLM and Agent research/engineering. Feel free to reach out via [email](mailto:wujwyi@126.com).
+**I will graduate in June 2027 and am currently looking for full-time opportunities in LLM and Agent research/engineering.** Feel free to reach out via **wujwyi@126.com**.
 
 
 # 🔥 News
 
-- *2026.06*: &nbsp;Joined **ByteDance AML Ark** as an LLM Algorithm Intern.
-- *2026.04*: &nbsp;🏆 Our team received the ***好专利团队奖 (Best Patent Team Award)*** at Tencent.
-- *2026.04*: &nbsp;Paper *"Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieval-Augmented Language Models"* accepted to **ACL 2026 Findings**.
-- *2026.04*: &nbsp;Released new preprint *"Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents"* on arXiv.
-- *2025.06*: &nbsp;Joined **Tencent Hunyuan / Yuanbao Search** team as a Research Intern via the Rhino-Bird Elite Talent Program.
+- *2026.06*: &nbsp;Joined **ByteDance Volcengine Ark** as an LLM Algorithm Intern.
+- *2026.04*: &nbsp;🏆 Our team received the ***Best Patent Team Award (好专利团队奖)*** at Tencent.
+- *2026.04*: &nbsp;Paper *"Adversarial Yet Cooperative"* accepted to **ACL 2026 Findings**.
+- *2026.04*: &nbsp;Paper *"ImCoref-CeS"* accepted to **ACL 2026**.
+- *2026.04*: &nbsp;Released our new preprint *"Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents"* on arXiv.
+- *2025.06*: &nbsp;Joined **Tencent Hunyuan** team as a Research Intern via the **Rhino-Bird Elite Talent Program (犀牛鸟精英人才计划)**.
 - *2025.06*: &nbsp;New preprint *"Towards AI Search Paradigm"* — Baidu Search technical report; core techniques of **PA-RAG deployed in Baidu Search production**.
 - *2025.04*: &nbsp;Attended **NAACL 2025** in Albuquerque, USA, and presented PA-RAG.
-- *2025.01*: &nbsp;Paper *"PA-RAG"* accepted to **NAACL 2025 Main Conference** (First author).
-- *2024.09*: &nbsp;Paper *"Cross-model Control"* accepted to **NeurIPS 2024** (First author).
+- *2025.01*: &nbsp;Our paper *"PA-RAG"* accepted to **NAACL 2025 Main Conference**.
+- *2024.09*: &nbsp;Our paper *"Cross-model Control"* accepted to **NeurIPS 2024**.
 - *2024.09*: &nbsp;Paper *"AdaSwitch"* accepted to **EMNLP 2024 Main Conference**.
-- *2024.02*: &nbsp;Paper *"Structure-aware Fine-tuning for Code Pre-trained Models"* accepted to **LREC-COLING 2024** (First author).
+- *2024.02*: &nbsp;Our paper *"Structure-aware Fine-tuning for Code Pre-trained Models"* accepted to **LREC-COLING 2024**.
 
 
 # 📝 Publications
 
-<span style="font-size: 0.9em;">★ = First author &nbsp;·&nbsp; Underlined name = me</span>
+- **Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents**  
+  **Jiayi Wu**, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Ming Gao, Xiang Li.  
+  *arXiv preprint, 2026.* [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv)
 
-- ★ **Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents**
-  <u>Jiayi Wu</u>, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Ming Gao, Xiang Li.
-  *Under Review, 2026.*
-  [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv)
+- **PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**  
+  **Jiayi Wu**, Hengyi Cai, Lingyong Yan, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin, Ming Gao.  
+  ***NAACL 2025 Main Conference.*** Core techniques **deployed in Baidu Search production**. [[Paper]](https://arxiv.org/pdf/2412.14510) [[Code]](https://github.com/wujwyi/PA-RAG)
 
-- **Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieval-Augmented Language Models**
-  Can Xu, Lingyong Yan, <u>Jiayi Wu</u>, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li.
-  ***ACL 2026 Findings.***
-  [[Paper]](https://arxiv.org/abs/2601.04651)
+- **Cross-model Control: Improving Multiple Large Language Models in One-time Training**  
+  **Jiayi Wu**, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiang Li, Ming Gao.  
+  ***NeurIPS 2024.*** [[Paper]](https://openreview.net/pdf?id=YPqHSTSoFs) [[Code]](https://github.com/wujwyi/CMC)
 
-- **ImCoref-CeS: An Improved Lightweight Pipeline for Coreference Resolution with LLM-based Checker-Splitter Refinement**
-  Kangyang Luo, Yuzhuo Bai, Shuzheng Si, Cheng Gao, Zhitong Wang, Yingli Shen, Wenhao Li, Zhu Liu, Yufeng Han, <u>Jiayi Wu</u>, Cunliang Kong, Maosong Sun.
-  ***ACL 2026.***
-  [[Paper]](https://aclanthology.org/2026.acl-long.1122/)
+- **Structure-aware Fine-tuning for Code Pre-trained Models**  
+  **Jiayi Wu**, Renyu Zhu, Qiushi Sun, Nuo Chen, Xiang Li, Ming Gao.  
+  ***LREC-COLING 2024.*** [[Paper]](https://aclanthology.org/2024.lrec-main.1334.pdf) [[Code]](https://github.com/wujwyi/StructureLoss)
 
-- **Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?**
-  Yibo Zhao, Zichen Ding, <u>Jiayi Wu</u>, Zun Wang, Xiang Li.
-  *arXiv preprint, 2026.*
-  [[Paper]](https://arxiv.org/abs/2605.27881)
+- **Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieval-Augmented Language Models**  
+  Can Xu, Lingyong Yan, **Jiayi Wu**, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li.  
+  ***ACL 2026 Findings.*** [[Paper]](https://arxiv.org/abs/2601.04651)
 
-- **Deep Research: A Systematic Survey**
-  Zhengliang Shi, Yiqun Chen, Haitao Li, Weiwei Sun, Shiyu Ni, Yougang Lyu, Run-Ze Fan, Bowen Jin, Yixuan Weng, Minjun Zhu, Qiujie Xie, Xinyu Guo, Qu Yang, <u>Jiayi Wu</u>, Jujia Zhao, Xiaqiang Tang, Xinbei Ma, Cunxiang Wang, Jiaxin Mao, Qingyao Ai, Jen-Tse Huang, Wenxuan Wang, Yue Zhang, Yiming Yang, Zhaopeng Tu, Zhaochun Ren.
-  *arXiv preprint, 2025.*
-  [[Paper]](https://arxiv.org/abs/2512.02038)
+- **ImCoref-CeS: An Improved Lightweight Pipeline for Coreference Resolution with LLM-based Checker-Splitter Refinement**  
+  Kangyang Luo, Yuzhuo Bai, Shuzheng Si, Cheng Gao, Zhitong Wang, Yingli Shen, Wenhao Li, Zhu Liu, Yufeng Han, **Jiayi Wu**, Cunliang Kong, Maosong Sun.  
+  ***ACL 2026.*** [[Paper]](https://aclanthology.org/2026.acl-long.1122/)
 
-- **Towards AI Search Paradigm**
-  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, <u>Jiayi Wu</u>, et al., Shuaiqiang Wang, Dawei Yin.
-  *Baidu Search Technical Report, 2025.*
-  [[Paper]](https://arxiv.org/abs/2506.17188)
+- **Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?**  
+  Yibo Zhao, Zichen Ding, **Jiayi Wu**, Zun Wang, Xiang Li.  
+  *arXiv preprint, 2026.* [[Paper]](https://arxiv.org/abs/2605.27881)
 
-- **Integrating LLM-derived Multi-Semantic Intent into Graph Model for Session-based Recommendation**
-  Shuo Zhang, Xiao Li, <u>Jiayi Wu</u>, Fan Yang, Xiang Li, Ming Gao.
-  *arXiv preprint, 2025.*
-  [[Paper]](https://arxiv.org/abs/2507.20147)
+- **Deep Research: A Systematic Survey**  
+  Zhengliang Shi, Yiqun Chen, Haitao Li, Weiwei Sun, Shiyu Ni, Yougang Lyu, Run-Ze Fan, Bowen Jin, Yixuan Weng, Minjun Zhu, Qiujie Xie, Xinyu Guo, Qu Yang, **Jiayi Wu**, Jujia Zhao, Xiaqiang Tang, Xinbei Ma, Cunxiang Wang, Jiaxin Mao, Qingyao Ai, Jen-Tse Huang, Wenxuan Wang, Yue Zhang, Yiming Yang, Zhaopeng Tu, Zhaochun Ren.  
+  *arXiv preprint, 2025.* [[Paper]](https://arxiv.org/abs/2512.02038)
 
-- ★ **PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**
-  <u>Jiayi Wu</u>, Hengyi Cai, Lingyong Yan, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin, Ming Gao.
-  ***NAACL 2025 Main Conference.***
-  Core techniques **deployed in Baidu Search production**.
-  [[Paper]](https://arxiv.org/pdf/2412.14510) [[Code]](https://github.com/wujwyi/PA-RAG)
+- **Towards AI Search Paradigm**  
+  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, **Jiayi Wu**, et al., Shuaiqiang Wang, Dawei Yin.  
+  *Baidu Search Technical Report, 2025.* [[Paper]](https://arxiv.org/abs/2506.17188)
 
-- ★ **Cross-model Control: Improving Multiple Large Language Models in One-time Training**
-  <u>Jiayi Wu</u>, Hao Sun, Hengyi Cai, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiang Li, Ming Gao.
-  ***NeurIPS 2024.***
-  [[Paper]](https://openreview.net/pdf?id=YPqHSTSoFs) [[Code]](https://github.com/wujwyi/CMC)
+- **Integrating LLM-derived Multi-Semantic Intent into Graph Model for Session-based Recommendation**  
+  Shuo Zhang, Xiao Li, **Jiayi Wu**, Fan Yang, Xiang Li, Ming Gao.  
+  *arXiv preprint, 2025.* [[Paper]](https://arxiv.org/abs/2507.20147)
 
-- **AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning**
-  Hao Sun, <u>Jiayi Wu</u>, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin.
-  ***EMNLP 2024 Main Conference.***
-  [[Paper]](https://arxiv.org/abs/2410.13181)
-
-- ★ **Structure-aware Fine-tuning for Code Pre-trained Models**
-  <u>Jiayi Wu</u>, Renyu Zhu, Qiushi Sun, Nuo Chen, Xiang Li, Ming Gao.
-  ***LREC-COLING 2024.***
-  [[Paper]](https://aclanthology.org/2024.lrec-main.1334.pdf) [[Code]](https://github.com/wujwyi/StructureLoss)
+- **AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning**  
+  Hao Sun, **Jiayi Wu**, Hengyi Cai, Xiaochi Wei, Yue Feng, Bo Wang, Shuaiqiang Wang, Yan Zhang, Dawei Yin.  
+  ***EMNLP 2024 Main Conference.*** [[Paper]](https://arxiv.org/abs/2410.13181)
 
 
 # 💻 Internships
 
-- **ByteDance, AML Ark** &nbsp;·&nbsp; *LLM Algorithm Intern* &nbsp;·&nbsp; Hangzhou, *2026.06 – Present*
+- **ByteDance, Volcengine Ark** &nbsp;·&nbsp; *2026.06 – Present*  
+  LLM Algorithm Intern.
 
-- **Tencent, Hunyuan / Yuanbao Search** &nbsp;·&nbsp; *Research Intern (Rhino-Bird Elite Talent Program)* &nbsp;·&nbsp; Beijing, *2025.06 – 2026.06*
-  Mentored by [Ruobing Xie](https://ruobingxie.github.io/).
+- **Tencent, Hunyuan** &nbsp;·&nbsp; *2025.06 – 2026.06*  
+  Research Intern, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
-- **Baidu, Search Strategy Department** &nbsp;·&nbsp; *Research Intern* &nbsp;·&nbsp; Beijing, *2023.08 – 2024.10*
-  Mentored by [Hengyi Cai](https://www.caihengyi.com/) and [Lingyong Yan](https://yanlingyong.net/).
+- **Baidu, Search Strategy Department** &nbsp;·&nbsp; *2023.08 – 2025.06*  
+  Research Intern in [Dawei Yin](https://www.yindawei.com/)'s group, mentored by [Hengyi Cai](https://www.caihengyi.com/) and [Lingyong Yan](https://yanlingyong.net/).
 
 
-# 📖 Educations
+# 📖 Education
 
-- *2022.09 – 2027.06 (expected)*, **Ph.D. in Software Engineering**, School of Data Science and Engineering, **East China Normal University** (ECNU).
-- *2018.09 – 2022.06*, **B.S. in Computer Science and Technology**, **Zhejiang University of Technology** (ZJUT).
+- **East China Normal University (ECNU)** &nbsp;·&nbsp; *2022.09 – 2027.06 (expected)*  
+  Ph.D. in Software Engineering, School of Data Science and Engineering.
+
+- **Zhejiang University of Technology (ZJUT)** &nbsp;·&nbsp; *2018.09 – 2022.06*  
+  B.S. in Computer Science and Technology.
 
 
 # 🎖 Honors and Awards
 
-- *2026* &nbsp;**好专利团队奖 (Best Patent Team Award)**, Tencent — as first inventor of the underlying patent.
+- *2026* &nbsp;**Best Patent Team Award (好专利团队奖)**, Tencent (as first inventor).
 - *2021* &nbsp;**Finalist (Top 1.8%)**, MCM/ICM Mathematical Contest in Modeling.
 - *2020* &nbsp;**National First Prize**, China Undergraduate Mathematical Contest in Modeling (全国大学生数学建模竞赛).
 
 
 # 🔍 Academic Services
 
-**Reviewer** for NeurIPS 2025 · ACL Rolling Review (ARR) 2025 May / July / October · ACL Rolling Review (ARR) 2026 January / May.
+- **Reviewer**: NeurIPS 2025 · ACL Rolling Review (5 cycles, 2025–2026)

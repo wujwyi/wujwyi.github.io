@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayi Wu"
-description              : "Ph.D. student at East China Normal University (ECNU DASE). Working on RAG, Search / Agent Learning, and LLM Post-training & Alignment."
+description              : "Ph.D. student at East China Normal University (ECNU DASE). "
 repository               : "wujwyi/wujwyi.github.io"
 
 # google analytics
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiayi Wu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student @ ECNU DASE"
-  location         : "Shanghai, China"
+  avatar           : "images/profile.png"
+  bio              : 
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=bQwV46IAAAAJ&hl=zh-CN"
