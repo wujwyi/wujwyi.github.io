@@ -15,8 +15,8 @@ I am a 4th-year Ph.D. student at the **School of Data Science and Engineering, E
 My research focuses on:
 
 - **Retrieval-Augmented Generation (RAG)**
-- **Search / Agent Learning**
-- **LLM Post-training & Alignment**
+- **Search Agents**
+- **LLM Post-training & Alignment (RL for LLM Agents)**
 
 **I will graduate in June 2027 and am currently looking for full-time opportunities in LLM and Agent research/engineering.** Feel free to reach out via **wujwyi@126.com**.
 
@@ -24,7 +24,7 @@ My research focuses on:
 # 🔥 News
 
 - *2026.06*: &nbsp;Joined **ByteDance Volcengine Ark** as an LLM Algorithm Intern.
-- *2026.04*: &nbsp;🏆 Our team received the ***Best Patent Team Award (好专利团队奖)*** at Tencent.
+- *2026.04*: &nbsp;🏆 Received the ***Tencent Best Patent Team Award (鹅厂好专利团队奖)*** as first inventor.
 - *2026.04*: &nbsp;Paper *"Adversarial Yet Cooperative"* accepted to **ACL 2026 Findings**.
 - *2026.04*: &nbsp;Paper *"ImCoref-CeS"* accepted to **ACL 2026**.
 - *2026.04*: &nbsp;Released our new preprint *"Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents"* on arXiv.
@@ -41,7 +41,7 @@ My research focuses on:
 
 - **Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents**  
   **Jiayi Wu**, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Ming Gao, Xiang Li.  
-  *arXiv preprint, 2026.* [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv)
+  *Under review, 2026.* [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv)
 
 - **PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**  
   **Jiayi Wu**, Hengyi Cai, Lingyong Yan, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin, Ming Gao.  
@@ -107,7 +107,7 @@ My research focuses on:
 
 # 🎖 Honors and Awards
 
-- *2026* &nbsp;**Best Patent Team Award (好专利团队奖)**, Tencent (as first inventor).
+- *2026* &nbsp;**Tencent Best Patent Team Award (鹅厂好专利团队奖)** (as first inventor).
 - *2021* &nbsp;**Finalist (Top 1.8%)**, MCM/ICM Mathematical Contest in Modeling.
 - *2020* &nbsp;**National First Prize**, China Undergraduate Mathematical Contest in Modeling (全国大学生数学建模竞赛).
 
