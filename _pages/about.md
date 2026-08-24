@@ -23,6 +23,8 @@ My research focuses on:
 
 # 🔥 News
 
+- *2026.08*: &nbsp;Paper *"Negative Advantage Is a Double-Edged Sword"* accepted to **EMNLP 2026 Findings**.
+- *2026.08*: &nbsp;Paper *"Node-to-Neighborhood Semantic Consistency"* accepted to **EMNLP 2026 Findings**.
 - *2026.06*: &nbsp;Joined **ByteDance Volcengine Ark** as an LLM Algorithm Intern.
 - *2026.04*: &nbsp;🏆 Received the ***Tencent Best Patent Team Award (鹅厂好专利团队奖)*** as first inventor.
 - *2026.04*: &nbsp;Paper *"Adversarial Yet Cooperative"* accepted to **ACL 2026 Findings**.
@@ -40,8 +42,8 @@ My research focuses on:
 # 📝 Publications
 
 - **Negative Advantage Is a Double-Edged Sword: Calibrating Advantages in GRPO for Search Agents**  
-  **Jiayi Wu**, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Ming Gao, Xiang Li.  
-  *Under review, 2026.* [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv)
+  **Jiayi Wu**, Ruobing Xie, Zeqian Huang, Lei Jiang, Can Xu, Kangyang Luo, Bochen Lin, Ming Gao, Xiang Li.  
+  ***EMNLP 2026 Findings.*** [[Paper]](https://arxiv.org/abs/2604.18235) [[Code]](https://github.com/wujwyi/CalibAdv)
 
 - **PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization**  
   **Jiayi Wu**, Hengyi Cai, Lingyong Yan, Hao Sun, Xiang Li, Shuaiqiang Wang, Dawei Yin, Ming Gao.  
@@ -52,12 +54,16 @@ My research focuses on:
   ***NeurIPS 2024.*** [[Paper]](https://openreview.net/pdf?id=YPqHSTSoFs) [[Code]](https://github.com/wujwyi/CMC)
 
 - **Structure-aware Fine-tuning for Code Pre-trained Models**  
-  **Jiayi Wu**, Renyu Zhu, Qiushi Sun, Nuo Chen, Xiang Li, Ming Gao.  
+  **Jiayi Wu**, Renyu Zhu, Nuo Chen, Qiushi Sun, Xiang Li, Ming Gao.  
   ***LREC-COLING 2024.*** [[Paper]](https://aclanthology.org/2024.lrec-main.1334.pdf) [[Code]](https://github.com/wujwyi/StructureLoss)
 
 - **Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieval-Augmented Language Models**  
   Can Xu, Lingyong Yan, **Jiayi Wu**, Haosen Wang, Shuaiqiang Wang, Yuchen Li, Jizhou Huang, Dawei Yin, Xiang Li.  
   ***ACL 2026 Findings.*** [[Paper]](https://arxiv.org/abs/2601.04651)
+
+- **Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection**  
+  Bochen Lin, Jianxiang Yu, **Jiayi Wu**, Lin Qi, Huang Lu, Xiang Li.  
+  ***EMNLP 2026 Findings.*** [[Paper]](https://arxiv.org/abs/2606.30009)
 
 - **ImCoref-CeS: An Improved Lightweight Pipeline for Coreference Resolution with LLM-based Checker-Splitter Refinement**  
   Kangyang Luo, Yuzhuo Bai, Shuzheng Si, Cheng Gao, Zhitong Wang, Yingli Shen, Wenhao Li, Zhu Liu, Yufeng Han, **Jiayi Wu**, Cunliang Kong, Maosong Sun.  
@@ -72,10 +78,10 @@ My research focuses on:
   *arXiv preprint, 2025.* [[Paper]](https://arxiv.org/abs/2512.02038)
 
 - **Towards AI Search Paradigm**  
-  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, **Jiayi Wu**, et al., Shuaiqiang Wang, Dawei Yin.  
+  Yuchen Li, Hengyi Cai, Rui Kong, Xinran Chen, Jiamin Chen, Jun Yang, Haojie Zhang, Jiayi Li, **Jiayi Wu**, Yiqun Chen, Changle Qu, Wenwen Ye, Lixin Su, Xinyu Ma, Lingyong Yan, Long Xia, Daiting Shi, Junfeng Wang, Xiangyu Zhao, Jiashu Zhao, Haoyi Xiong, Shuaiqiang Wang, Dawei Yin.  
   *Baidu Search Technical Report, 2025.* [[Paper]](https://arxiv.org/abs/2506.17188)
 
-- **Integrating LLM-derived Multi-Semantic Intent into Graph Model for Session-based Recommendation**  
+- **Integrating LLM-Derived Multi-Semantic Intent into Graph Model for Session-based Recommendation**  
   Shuo Zhang, Xiao Li, **Jiayi Wu**, Fan Yang, Xiang Li, Ming Gao.  
   *arXiv preprint, 2025.* [[Paper]](https://arxiv.org/abs/2507.20147)
 
