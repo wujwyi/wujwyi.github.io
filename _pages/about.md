@@ -23,6 +23,7 @@ My research focuses on:
 
 # 🔥 News
 
+- *2026.10*: &nbsp;Attended **EMNLP 2026** in Budapest, Hungary, and presented **CalibAdv** and **N2NSC**.
 - *2026.08*: &nbsp;Paper *"Negative Advantage Is a Double-Edged Sword"* accepted to **EMNLP 2026 Findings**.
 - *2026.08*: &nbsp;Paper *"Node-to-Neighborhood Semantic Consistency"* accepted to **EMNLP 2026 Findings**.
 - *2026.06*: &nbsp;Joined **ByteDance Volcengine Ark** as an LLM Algorithm Intern.
@@ -92,7 +93,7 @@ My research focuses on:
 
 # 💻 Internships
 
-- **ByteDance, Volcengine Ark** &nbsp;·&nbsp; *2026.06 – Present*  
+- **ByteDance, Volcengine Ark** &nbsp;·&nbsp; *2026.06 – 2026.08*  
   LLM Algorithm Intern.
 
 - **Tencent, Hunyuan** &nbsp;·&nbsp; *2025.06 – 2026.06*  
